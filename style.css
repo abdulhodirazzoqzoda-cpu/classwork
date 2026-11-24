@@ -104,3 +104,51 @@
     width: 100%;
     height: auto;
 }
+.section2 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 70px;
+    box-sizing: border-box;
+}
+
+/* Матни тарафи чап */
+.matn-dyum {
+    width: 45%;
+}
+
+.matn-dyum h2 {
+    font-size: 40px;
+    line-height: 1.3;
+    margin: 15px 0;
+}
+
+.matn-dyum ul {
+    padding-left: 25px;
+    margin-top: 25px;
+}
+
+.matn-dyum li {
+    font-size: 18px;
+    margin-bottom: 12px;
+    color: #217BF4;
+}
+
+/* Расми тарафи рост */
+.rasmi-dyum {
+    width: 35%;
+    height: 300px;
+    background-color: #E7E7E7;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rasmi-dyum img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+}
