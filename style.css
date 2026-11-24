@@ -39,3 +39,68 @@
     outline: none;
     background-color: transparent;
 }
+.section1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 70px;
+    box-sizing: border-box;
+}
+
+/* Матни тарафи чап */
+.matn-avval {
+    width: 45%;
+}
+
+.matni-kichik {
+    color: #217BF4;
+    font-size: 16px;
+}
+
+.matn-avval h1 {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 20px 0;
+}
+
+.matni-asosi {
+    font-size: 16px;
+    color: #656464;
+    line-height: 1.7;
+}
+
+/* Тугмаҳо */
+.tugma-ho {
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.tugma1,
+.tugma2 {
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.tugma1 {
+    background-color: #217BF4;
+    color: white;
+}
+
+.tugma2 {
+    border: 1px solid #217BF4;
+    color: #217BF4;
+}
+
+/* Расми тарафи рост */
+.rasmi-avval {
+    width: 50%;
+}
+
+.rasmi-avval img {
+    width: 100%;
+    height: auto;
+}
