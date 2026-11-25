@@ -370,3 +370,38 @@
     color: #656464;
     margin: 0;
 }
+.section6 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 80px;
+    background-color: #f5f8ff;
+}
+
+.matni-section6 {
+    width: 40%;
+}
+
+.matni-section6 p {
+    color: #656875;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.matni-section6 h2 {
+    color: #20202d;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.rasmi-section6 {
+    width: 45%;
+    text-align: center;
+}
+
+.rasmi-section6 img {
+    width: 300px;
+    height: 350px;
+    object-fit: contain;
+}
