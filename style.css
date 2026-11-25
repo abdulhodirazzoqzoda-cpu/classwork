@@ -367,7 +367,7 @@
 }
 
 .member1 p {
-    color: #656464;
+    color: #7285da;
     margin: 0;
 }
 .section6 {
@@ -376,7 +376,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 80px 100px;
-    background-color: #f5f8ff;
+    background-color: #aab9de;
 }
 
 .matni-section6 {
@@ -426,4 +426,53 @@
     width: px;
     height: 500px;
     object-fit: contain;
+}
+.section7 {
+    width: 100%;
+    padding: 80px;
+    background-color: #f5f8ff;
+}
+
+.matni-boloi-section7 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.matni-boloi-section7 p {
+    color: #217bf4;
+    font-size: 15px;
+}
+
+.matni-boloi-section7 h2 {
+    color: #20202d;
+    font-size: 35px;
+}
+
+.news {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.news1 {
+    width: 33%;
+}
+
+.news1 img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.news1 h3 {
+    color: #20202d;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.news1 p {
+    color: #656875;
+    font-size: 14px;
 }
