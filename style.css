@@ -415,8 +415,7 @@
 
 .rasmi-section6 {
     width: 45%;
-    height: 400px;
-    position: relative;
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -424,31 +423,7 @@
 }
 
 .telefon {
-    width: 250px;
-    height: 380px;
+    width: px;
+    height: 500px;
     object-fit: contain;
-    position: relative;
-    z-index: 3;
-}
-
-.doyra1 {
-    width: 100px;
-    height: 100px;
-    background-color: #ff6b6b;
-    border-radius: 50%;
-    position: absolute;
-    left: 50px;
-    bottom: 100px;
-    z-index: 1;
-}
-
-.doyra2 {
-    width: 100px;
-    height: 100px;
-    background-color: #00c9a7;
-    border-radius: 50%;
-    position: absolute;
-    left: 50px;
-    bottom: 0;
-    z-index: 2;
 }
